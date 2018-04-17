@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700, 900');
+:root{
+  --papaya: #FFF6E8;
+  --prune: #6f1d1b;
+  --deer: #bb9457;
+  --bistre: #432818;
+  --coconut: #99582a;
+}
+
+
+body{
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  background-color: var(--papaya);
+}
+
+p{
+  font-family: 'Libre Baskerville', serif;
+}
